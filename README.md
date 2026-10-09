@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0B3D91,13B9FD&height=200&section=header&text=Enirack%20Dada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer%20·%20Flutter%20·%20Laravel%20·%20AI&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0B3D91,13B9FD&height=200&section=header&text=Enirack%20Dada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Mobile%20Developer%20·%20Flutter%20·%20Laravel%20·%20AI&descAlignY=58&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=13B9FD&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Flutter+apps+shipped+to+the+App+Store+%F0%9F%93%B1;Laravel+%C2%B7+Symfony+%C2%B7+Node.js+backends;AI+%26+automation+%E2%80%94+OpenAI+%C2%B7+Make+%C2%B7+Zapier;Remote+from+Cotonou+%F0%9F%87%A7%F0%9F%87%AF+for+France+%26+Europe)](https://git.io/typing-svg)
 
