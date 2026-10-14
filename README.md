@@ -1,25 +1,31 @@
 <div align="center">
 
+# Enirack Dada — Développeur Full-Stack & Mobile (Flutter, Laravel, React, AI)
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0B3D91,13B9FD&height=200&section=header&text=Enirack%20Dada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Mobile%20Developer%20·%20Flutter%20·%20Laravel%20·%20AI&descAlignY=58&descSize=18)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=13B9FD&center=true&vCenter=true&multiline=true&width=620&height=80&lines=Flutter+apps+shipped+to+the+App+Store+%F0%9F%93%B1;Laravel+%C2%B7+Symfony+%C2%B7+Node.js+backends;AI+%26+automation+%E2%80%94+OpenAI+%C2%B7+Make+%C2%B7+Zapier;Remote+from+Cotonou+%F0%9F%87%A7%F0%9F%87%AF+for+France+%26+Europe)](https://git.io/typing-svg)
+
+<p>
+  <strong>Enirack Dada</strong> &bull; Développeur Web & Mobile &bull; Fondateur du studio <strong>Deux Points</strong> &bull; Partenaire tech W-Technologies (France)
+</p>
 
 </div>
 
 ---
 
-## About me
+## 👨‍💻 À propos / About me
 
-I'm a **full-stack and mobile developer** based in **Cotonou, Bénin**. Since January 2025 I've been working remotely with clients in France, Belgium and West Africa under my studio brand **Deux Points**.
+Je suis **Enirack Dada**, développeur **full-stack & mobile** et créateur de solutions numériques modernes sous le studio **Deux Points**. Je collabore à distance avec des entreprises et startups en **France**, en **Belgique** et en **Afrique de l'Ouest**.
 
-Most of my work sits between a Flutter app, the API behind it, and the automations that glue the business together. I like projects where the app has to keep working offline, where the data model matters, and where an AI feature actually saves someone time.
+Spécialisé dans l'écosystème **Flutter** (applications mobiles iOS & Android prêtes pour les stores), les backends robustes (**Laravel, Symfony, Node.js**) et les intégrations intelligentes d'**IA & Automatisation** (OpenAI, Make, Zapier).
 
-- 📱 **Mobile** : Flutter apps from first screen to App Store release
-- 🛠️ **Backend** : Laravel, Symfony, Node.js, FastAPI, REST APIs
-- 🌐 **Web** : React, Angular, Next.js
-- 🤖 **AI & automation** : OpenAI integrations, Make, Zapier, Twilio
-- 🤝 **Clients** : W-Technologies (France), Evee Engineering (Côte d'Ivoire), freelance missions on ComeUp
-- 📍 Based in **Cotonou, Bénin 🇧🇯** · working on European hours
+- 📱 **Mobile** : Applications Flutter complètes, architecture offline-first, publication App Store & Google Play
+- 🛠️ **Backend & APIs** : Laravel, Symfony (API Platform), Node.js, FastAPI, bases SQL & NoSQL
+- 🌐 **Web Frontend** : React, Next.js, Angular, interfaces haute performance
+- 🤖 **IA & Automatisation** : Intégrations OpenAI / LLM, Make, Zapier, Webhooks
+- 🤝 **Partenaires & Clients** : W-Technologies (France), Evee Engineering (Côte d'Ivoire), missions sélectives sur ComeUp
+- 📍 **Disponibilité** : Fuseau horaire européen / France (Remote)
 
 ---
 
