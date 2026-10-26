@@ -1,6 +1,7 @@
 <div align="center">
 
-# Enirack Dada — Développeur Full-Stack & Mobile (Flutter, Laravel, React, AI)
+# Enirack Dada — Développeur Full-Stack & Mobile (Flutter, Laravel, React)  
+## AI Solutions Engineer 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0B3D91,13B9FD&height=200&section=header&text=Enirack%20Dada&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Mobile%20Developer%20·%20Flutter%20·%20Laravel%20·%20AI&descAlignY=58&descSize=18)
 
