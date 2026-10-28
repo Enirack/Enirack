@@ -170,6 +170,6 @@ Collaborative project connecting people around leisure activities, with full-tex
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0B3D91,13B9FD&height=100&section=footer)
 
-* Deux Points : from the first screen to the last API call.*
+* Deux Points : from the first screen to the last API call. *
 
 </div>
