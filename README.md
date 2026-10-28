@@ -127,8 +127,8 @@ Collaborative project connecting people around leisure activities, with full-tex
 | Repo | What it does | Stack |
 |:---|:---|:---|
 | 📊 [**datapulse-ai**](https://github.com/Enirack/datapulse-ai) | Data quality & analysis SaaS | Symfony · Angular · FastAPI · PostgreSQL |
-| 🌍 [**afriflow-ai**](https://github.com/Enirack/afriflow-ai) | Business management for African SMEs: sales, customers, expenses, AI copilot | PHP · AI |
-| 🔍 [**dev-audit-ai**](https://github.com/Enirack/dev-audit-ai) | Audits GitHub repos: static analysis, scoring, AI-assisted reports | PHP · AI |
+| 🌍 [**afriflow**](https://github.com/Enirack/afriflow-ai) | Business management for African SMEs: sales, customers, expenses, AI copilot | PHP · AI |
+| 🔍 [**dev-audit**](https://github.com/Enirack/dev-audit-ai) | Audits GitHub repos: static analysis, scoring, AI-assisted reports | PHP · AI |
 
 ---
 
@@ -147,7 +147,7 @@ Collaborative project connecting people around leisure activities, with full-tex
 
 ## Currently
 
-- 🔭 Building **afriflow-ai**, **datapulse-ai** and **dev-audit-ai** in the open
+- 🔭 Building **afriflow**, **datapulse-ai** and **dev-audit** in the open
 - 💼 **Open to remote roles** and freelance missions (France, Europe, Canada)
 - 💬 Ask me about Flutter, Laravel/Symfony APIs, offline-first apps, and AI automation
 
