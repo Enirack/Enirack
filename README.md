@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 À propos / About me
+##  À propos / About me
 
 Je suis **Enirack Dada**, développeur **full-stack & mobile** et créateur de solutions numériques modernes sous le studio **Deux Points**. Je collabore à distance avec des entreprises et startups en **France**, en **Belgique** et en **Afrique de l'Ouest**.
 
@@ -170,6 +170,6 @@ Collaborative project connecting people around leisure activities, with full-tex
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0B3D91,13B9FD&height=100&section=footer)
 
-*⚡ Deux Points : from the first screen to the last API call.*
+* Deux Points : from the first screen to the last API call.*
 
 </div>
