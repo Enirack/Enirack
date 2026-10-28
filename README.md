@@ -24,8 +24,8 @@ Spécialisé dans l'écosystème **Flutter** (applications mobiles iOS & Android
 - 📱 **Mobile** : Applications Flutter complètes, architecture offline-first, publication App Store & Google Play
 - 🛠️ **Backend & APIs** : Laravel, Symfony (API Platform), Node.js, FastAPI, bases SQL & NoSQL
 - 🌐 **Web Frontend** : React, Next.js, Angular, interfaces haute performance
-- 🤖 **IA & Automatisation** : Intégrations OpenAI / LLM, Make, Zapier, Webhooks
-- 🤝 **Partenaires & Clients** : W-Technologies (France), Evee Engineering (Côte d'Ivoire), missions sélectives sur ComeUp
+- 🤖 **IA & Automatisation** : Intégrations OpenAI / LLM, Make, Zapier, Webhooks, Python
+- 🤝 **Partenaires & Clients** : W-Technologies (France), Evee Engineering (Côte d'Ivoire),  missions sélectives sur ComeUp
 - 📍 **Disponibilité** : Fuseau horaire européen / France (Remote)
 
 ---
